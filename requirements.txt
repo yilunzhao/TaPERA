@@ -1,0 +1,13 @@
+openai
+datasets
+torch
+transformers
+pandas
+nltk
+
+evaluate
+bert_score
+sacrebleu
+rouge_score
+meteor-metric
+autoacu
